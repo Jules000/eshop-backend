@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jules000/eshop.git"
+    "url": "git+https://github.com/jules000/eshop-backend.git"
   },
-  "author": "Tjahe Essomba Jules Renaud",
+  "author": "Jules Renaud",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jules000/eshop/issues"
+    "url": "https://github.com/jules000/eshop-backend/issues"
   },
-  "homepage": "https://github.com/jules000/eshop#readme"
+  "homepage": "https://github.com/jules000/eshop-backend#readme"
 }
